@@ -4,8 +4,11 @@
   "package": "wtf.bitshift.mcinfogui.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "PlayerEntityInterface",
+    "ModMixin"
   ],
   "client": [
+    "PlayerEntityInterface",
     "ModMixin"
   ],
   "injectors": {

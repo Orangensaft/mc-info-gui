@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mcinfoguiwtf",
-  "version": "0.0.1-ALPHA",
+  "version": "1.0.0-BETA",
 
   "name": "Minecraft Info GUI",
   "description": "This mod shows exact xp and durability values",
